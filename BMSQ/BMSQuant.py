@@ -1,14 +1,12 @@
 #-*-coding:utf-8-*-
 #！/usr/bin/env python
 import math
-import numpy as np
 import matplotlib as mpl
-import matplotlib.pyplot as plt
-mpl.rcParams['font.family'] = 'serif'
 from scipy.integrate import quad
 
 #
-# Helper Functions
+# 待用 Functions
+# Devin
 #
 
 def dN(x):
